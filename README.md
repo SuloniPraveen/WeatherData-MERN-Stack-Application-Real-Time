@@ -13,7 +13,8 @@ Database: Data is managed using MongoDB Atlas (NoSQL database) in the cloud.
 
 # Deployment
 
-The application is deployed on GCP:
+The application is deployed on GCP
+
 Weather MERN Stack Application: https://csci571assignment3-441304.wl.r.appspot.com
 
 Weather Data Flask Application: https://csci-a2-python.wl.r.appspot.com

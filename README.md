@@ -2,14 +2,6 @@
 
 This project is a full-stack weather data application built using MERN Stack (MongoDB, Express, React, Node.js) and Flask. It integrates various APIs and modern technologies to provide users with real-time weather information, dynamic visualizations, and location-based services.
 The application fetches weather data from Tomorrow.io API, uses Google Maps API for location features, and IPinfo API for geolocation based on the user's IP. Weather visualizations are handled with HighCharts, and real-time social media feeds are incorporated using the Twitter API (X API).
-Features
-
-Weather Data: Fetch real-time weather information using Tomorrow.io API.
-Geolocation: Display weather information based on the user’s location using Google Maps API and IPinfo API.
-Dynamic Weather Visualizations: Show interactive charts with HighCharts for detailed weather data.
-Responsive Design: Built with HTML5, CSS, Bootstrap, and React.js (for MERN) / Flask for the backend.
-Real-time Social Media Feeds: Integration of X (formerly Twitter) API for live updates.
-Database: Data is managed using MongoDB Atlas (NoSQL database) in the cloud.
 
 # Deployment
 
